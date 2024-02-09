@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lluís</h1>
-<h3 align="center">A passionate data guy from Barcelona.</h3>
+<h3 align="center">A passionate data enthusiast from Barcelona.</h3>
 
 - 🔭 I’m currently doing my thesis at Denmark Technical University (DTU) on [A data-driven approach to marking of plastic materials by laser micro-machining](https://github.com/leberneids/A-data-driven-approach-to-marking-of-plastic-materials-by-laser-micro-machining-2)
 - Msc in Materials and Manufacturing Engineering
